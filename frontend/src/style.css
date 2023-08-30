@@ -1,0 +1,40 @@
+.loginPage {
+    background: url('Images/1.jpg');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("Images/1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm {
+    background-color: rgba(1, 32, 93, 0.6);
+    color: white;
+}
+
+.employee_image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.empImg {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+.red{
+    background-color: rgba(247, 139, 15, 0.911);
+    color: rgb(10, 10, 10);
+    
+}
+.blue{
+    background-color: rgba(13, 126, 218, 0.911);
+    color: rgb(10, 10, 10);
+    
+}
+.green{
+    background-color: rgba(12, 180, 68, 0.911);
+    color: rgb(10, 10, 10);
+    
+}
+
